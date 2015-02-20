@@ -5,6 +5,7 @@
     "private": true,
     "dependencies": {
     	"express": "4.10.2",
+    	"body-parser":"*",
     	"socket.io": "1.2.0",
         "mongodb": "*"
     }
